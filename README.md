@@ -1,1 +1,1 @@
-# SolutionTemplateBaseCSharp
+# Solution
